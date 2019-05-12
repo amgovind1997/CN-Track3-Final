@@ -1,0 +1,10 @@
+#The folder named 'android' contains the android studio project.
+---------------------------------------------------------------
+#The folder named 'tt-map' contains all the assets related to the 
+users web interface.
+---------------------------------------------------------------
+#The folder named 'admin' is a folder containing the admin's app to
+overview all the happenings.
+---------------------------------------------------------------
+#The folder named 'backend' contains all the cloud functions and other 
+backend logic of our project.
