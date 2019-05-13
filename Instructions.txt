@@ -8,3 +8,6 @@ overview all the happenings.
 ---------------------------------------------------------------
 #The folder named 'backend' contains all the cloud functions and other 
 backend logic of our project.
+---------------------------------------------------------------
+#Backend cannot be easily run and viewed because the firebase database
+is linked to my google acc. and i cannot disclose it. 
