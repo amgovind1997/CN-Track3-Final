@@ -1,5 +1,5 @@
 {
-	"mapsApiKey": "AIzaSyDXBiQ7dceAAyXwIeLMJHfC0pK-jUvRVBg",
-	"databaseURL": "https://offl-project.firebaseio.com",
+	"mapsApiKey": "YOUR API KEY",
+	"databaseURL": "databaseURL from your Firebase Project",
 	"simulation": true
 }
