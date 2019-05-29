@@ -1,0 +1,23 @@
+https://console.firebase.google.com/u/0/project/transport-tracker-21f54/database/transport-tracker-21f54/data
+####### FIREBASE ##########
+
+https://console.cloud.google.com/cloudshell/editor?project=solar-program-232518
+####### GCLOUD #########
+
+https://console.developers.google.com/apis/credentials?project=solar-program-232518
+####### CREDENTIALS #####
+
+https://console.cloud.google.com/home/dashboard?project=new-transport-backend
+#######GCLOUD PLATFORM###
+
+https://console.cloud.google.com/cloudshell/editor?project=new-transport-backend
+####### GCLOUD #########
+
+https://codelabs.developers.google.com/codelabs/transport-tracker-map/#3
+#######TUTORIAL#########
+
+https://console.firebase.google.com/u/0/project/offl-project/database/offl-project/data
+########new#############
+
+https://developers.google.com/maps/solutions/transport-tracker/start
+#######TUTORIAL#########
